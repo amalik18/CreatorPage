@@ -1,6 +1,5 @@
 ---
 title: Home
-permalink: /home/
 ---
 ## Welcome to GitHub Pages
 
