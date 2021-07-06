@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-permalink: {{ site.baseurl }}/projects/
+permalink: /CreatorPage/projects/
 ---
 
 ## My Projects

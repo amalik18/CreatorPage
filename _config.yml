@@ -21,7 +21,7 @@
 title: Hey, I'm Ali!
 email: ali_malik96@yahoo.com
 description: ""
-baseurl: "/CreatorPage" # the subpath of your site, e.g. /blog
+baseurl: "/CreatorPage/" # the subpath of your site, e.g. /blog
 github_username:  amalik18
 
 # Build settings

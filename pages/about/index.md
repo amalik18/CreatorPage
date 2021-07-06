@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: {{ site.baseurl }}/about/
+permalink: /CreatorPage/about/
 ---
 
 # About Me
