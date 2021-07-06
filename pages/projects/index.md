@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-permalink: /CreatorPage/projects/
+permalink: /projects/
 ---
 
 ## My Projects

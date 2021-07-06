@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-permalink: /CreatorPage/
+permalink: /
 ---
 ## Welcome to GitHub Pages
 
