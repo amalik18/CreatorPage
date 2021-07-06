@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+permalink: {{ site.baseurl }}
 ---
 ## Welcome to GitHub Pages
 
