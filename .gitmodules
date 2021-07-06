@@ -1,0 +1,3 @@
+[submodule "RustOS"]
+	path = RustOS
+	url = git@github.com:amalik18/RustOS.git
