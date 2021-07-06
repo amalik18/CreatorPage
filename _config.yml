@@ -21,14 +21,13 @@
 title: Hey, I'm Ali!
 email: ali_malik96@yahoo.com
 description: ""
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://amalik18.github.io/CreatorPage/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/CreatorPage/" # the subpath of your site, e.g. /blog
+url: "https://amalik18.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  amalik18
 
 # Build settings
 theme: jekyll-theme-midnight
-plugins:
-  - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
